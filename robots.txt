@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://drasuellenpneumopediatra.vercel.app/sitemap.xml
+Sitemap: https://www.drasuellenpneumopediatra.com.br/sitemap.xml
